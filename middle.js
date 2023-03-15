@@ -12,7 +12,7 @@ const middle = function (arr) {
     else return [arr[mid]];
 }
 
-
+module.exports = middle;
 /*
 console.log(middle([1, 2]));
 console.log(middle([1, 2, 3]));

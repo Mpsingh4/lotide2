@@ -7,6 +7,9 @@ const tail = function(arr) {
   } return last;
 };
 
+module.exports = tail;
+
+/*
 const words = ["Yo Yo", "Lighthouse", "Labs"];
 console.log(tail(words)); // no need to capture the return value since we are not checking it
-assertEqual(words.length, 3); // original array should still have 3 elements!
+assertEqual(words.length, 3); // original array should still have 3 elements!*/
