@@ -1,7 +1,7 @@
 {
   "name": "lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the Lodash library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Mpsingh4/lotide2.git"
   },
-  "author": "",
+  "author": "Manpreet Saini",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mpsingh4/lotide2/issues"
