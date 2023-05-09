@@ -16,4 +16,4 @@ const letterPositions = function(sentence) {
   return results;
 };
 
-console.log(letterPositions('Lighthouse Labs looks Like a Legit lab '))
+module.exports = letterPositions;

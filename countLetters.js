@@ -17,5 +17,4 @@ const countLetters = function(str) {
     return output;
 }
 
-console.log(countLetters('LHLWP5pp'));
-console.log(countLetters("lighthouse in the house"));
+module.exports = countLetters;

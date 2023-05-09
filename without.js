@@ -15,11 +15,3 @@ const without = function(stay, remove) {
 };
 
 module.exports = without;
-
-/*
-console.log(without([1, 2, 3], [1])); // => [2, 3]
-console.log(without(["1", "2", "3"], [1, 2, "3"])); // => ["1", "2"]
-
-assertArraysEqual(without([1, 2, 3], [1]), [2, 3]);
-eqArrays(without(["1", "2", "3"], [1, 2, "3"]), ["1", "2"]);
-*/
